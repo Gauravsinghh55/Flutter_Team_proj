@@ -12,6 +12,13 @@ Technologies Used
 Contributing
 License
 Contact
+
+✨ Screenshots
+![WhatsApp Image 2024-09-24 at 09 49 07_1e88bc42](https://github.com/user-attachments/assets/9902baa7-245b-44b2-82e7-bd3adf81177c)
+![WhatsApp Image 2024-09-24 at 09 49 17_e3e96d5d](https://github.com/user-attachments/assets/7fcb968b-21b9-43e4-bef1-8bda3c32a299)
+
+
+
 ✨ Features
 
 🔍 Search Functionality: Easily search for members by name.
