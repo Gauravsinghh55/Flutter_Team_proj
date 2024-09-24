@@ -1,33 +1,24 @@
-# Hackathon Test (Project development) || Vinove Software
 
+📅 Attendance Management App
 
+Welcome to the Attendance Management App, a complete solution designed to simplify attendance tracking. Built with the Flutter framework, this app ensures a smooth and interactive user experience for efficiently managing employee attendance records.
 
-Hackathon Test (Project development) || Vinove Software                    
+📋 Table of Contents
 
-## Getting Started
+Features
+Screenshots
+Usage
+Technologies Used
+Contributing
+License
+Contact
+✨ Features
 
-This project is a starting point for a Flutter application.
+🔍 Search Functionality: Easily search for members by name.
+🗺️ Map Integration: View member locations on an interactive map.
+📊 Detailed View: Access in-depth details, including in-time, out-time, and address for each member.
+🌐 Cross-Platform: Seamless operation on both Android and iOS, thanks to Flutter.
+📸 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference
-
-
-##Screen Shots
-![Splash Screen ](https://raw.githubusercontent.com/Ayush01arya/Hackathon/master/screenshot/Splash_screen.jpg)
-
-##
-
-![Drawer 1 ](https://raw.githubusercontent.com/Ayush01arya/Hackathon/master/screenshot/1.jpg)
-
-
-##
-![Drawer Continue ](https://raw.githubusercontent.com/Ayush01arya/Hackathon/master/screenshot/2.jpg)
-##
-
-![Home View ](https://raw.githubusercontent.com/Ayush01arya/Hackathon/master/screenshot/3.jpg)
+View and manage attendance records.
+Detailed member information at your fingertips.
